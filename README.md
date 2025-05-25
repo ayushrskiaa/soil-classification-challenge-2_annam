@@ -64,6 +64,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Deadline for Submissions:** 25th May, 2025, 11:59 PM IST
 
 *Happy Coding and Hacking!*
